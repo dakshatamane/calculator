@@ -1,0 +1,35 @@
+body{
+    background-image: url('calculator.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-center{
+    text-align: center;
+}
+.bg-pink{
+    background-color: pink;
+}
+.m-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-cen{
+    align-items: center;
+}
+.row input{
+    margin: 0;
+    padding:15px 34px;
+    border-radius: 7px; ;
+    border: 2px solid black;
+    font-size:19px;
+
+}
+h1{
+    padding:3% 0;
+    color: white;
+}
